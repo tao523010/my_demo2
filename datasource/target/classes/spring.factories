@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.config.dynamicds.DataSourceAspect,\
+com.config.dynamicds.DynamicDatasourceConfigProperties,\
+com.config.dynamicds.DynamicDSAutoConfiguration,\
+com.config.dynamicds.EnableDynamicDS,\
+com.config.MybatisPlusConfig,\
+com.config.MySqlInterceptor
